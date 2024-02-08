@@ -1,0 +1,3 @@
+1. Create logger and exception file 
+    We can create custom logging file or use inbuilt logger 
+
